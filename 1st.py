@@ -15,7 +15,7 @@ def calculate_probability(event, sample_space):
     probability_value = len(valid_event_outcomes) / len(sample_space)
     return probability_value
 
- 
+   
 # 2. Defining Events
 # An event is a subset of the sample space (a collection of specific outcomes).
 event_A = {3}  # Event A: Rolling exactly a 3
