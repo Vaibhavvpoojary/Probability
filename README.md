@@ -25,7 +25,7 @@ Where:
 *   Python 3.x installed on your system.
 
 ### Execution
-1. Save the code into a file named `probability_demo.py`.
+1. Save the code into a file named ex:`probability_demo.py`.
 2. Open your terminal or command prompt.
 3. Navigate to the directory containing the file.
 4. Run the following command:
